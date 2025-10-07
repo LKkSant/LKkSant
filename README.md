@@ -1,4 +1,4 @@
-**`Desenvolvedor Front-End Inicante`**
+**`Desenvolvedor Front-End`**
 
 Olá me chamo Lucas, tenho 21 anos, nascido em Bauru São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na USC. Estou sempre em buscar de melhorar meus conhecimentos e habilidades.
 
