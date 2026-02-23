@@ -69,11 +69,3 @@ Olá me chamo Lucas, tenho 21 anos, nascido em Bauru São Paulo. Atualmente, est
     style="padding-right: 10px;"            
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
           
-
-<br/>
-
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LkkSant&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
