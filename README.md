@@ -63,9 +63,11 @@ Olá me chamo Lucas, tenho 22 anos, nascido em Bauru São Paulo. Atualmente, est
 
 <img 
     align="left" 
-    alt="MySql" 
-    title="MySql"
+    alt="SqlServer" 
+    title="SqlServer"
     width="30px" 
     style="padding-right: 10px;"            
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"
+    />
+ 
           
