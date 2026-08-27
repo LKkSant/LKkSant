@@ -103,14 +103,5 @@ Hello! My name is Lucas and I transform data into strategic insights and build m
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"
 />
 
-<img 
- align="left" 
- alt="Power BI" 
- title="Power BI"
- width="30px" 
- style="padding-right: 10px;"            
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg"
-/>
-
 <br/>
 <br/>
